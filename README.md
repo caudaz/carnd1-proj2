@@ -1,9 +1,9 @@
-> Self-Driving Car Engineer Nanodegree - Deep Learning
+# > Self-Driving Car Engineer Nanodegree - Deep Learning #
 >
-> Project: Build a Traffic Sign Recognition Classifier
+# > Project: Build a Traffic Sign Recognition Classifier #
 
-**\#\#\#\#1. Provide a basic summary of the data set and identify where
-in your code the summary was done. In the code, the analysis should be
+## **1. Provide a basic summary of the data set ##
+In the code, the analysis should be
 done using python, numpy and/or pandas methods rather than hardcoding
 results manually.**
 
@@ -47,8 +47,9 @@ Image data shape = (32, 32, 3)
 
 Image data type = &lt;class 'int'&gt;
 
-**\#\#\#\#2. Include an exploratory visualization of the dataset and
-identify where the code is in your code file.**
+## **2. Include an exploratory visualization of the dataset. ##
+
+Identify where the code is in your code file.**
 
 **(The code for this step is contained in the third code cell of the
 IPython notebook.)**
@@ -70,10 +71,11 @@ of Class on Training Data Set**
 
 []{#page3 .anchor}
 
-**\#\#\#Design and Test a Model Architecture**
+## **\#\#\#Design and Test a Model Architecture** ##
 
 **\#\#\#\#1. Describe how, and identify where in your code, you
-preprocessed the image data. What techniques were chosen and why did you
+preprocessed the image data. 
+What techniques were chosen and why did you
 choose these techniques? Consider including images showing the output of
 each preprocessing technique. Pre-processing refers to techniques such
 as converting to grayscale, normalization, etc.**
@@ -289,7 +291,7 @@ ninth cell of the Ipython notebook.)**
     > Since the accuracy is not that different that is an indication
     > that there is not over-fitting.
 
-**\#\#\#Test a Model on New Images**
+## **\#\#\#Test a Model on New Images** ##
 
 **\#\#\#\#1. Choose five German traffic signs found on the web and
 provide them in the report. For each image, discuss what quality or
